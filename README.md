@@ -1,6 +1,6 @@
 # nmap-recon-toolkit
 Nmap-based reconnaissance toolkit with scan examples and cybersecurity notes
-# 🔍 Nmap Recon Toolkit
+#  Nmap Recon Toolkit
 
 This project is a simple cybersecurity reconnaissance toolkit using **Nmap**.
 
@@ -42,6 +42,5 @@ Build web dashboard for results
 
  
 
-### Basic scan
-```bash
+
 nmap target_ip
